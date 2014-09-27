@@ -4,6 +4,7 @@ This module provides `socket.req()` and `socket.rep()` capabilities to your sock
 ## Installation
 ```
 npm install reqrepable-socket
+```
 
 ## Examples
 
